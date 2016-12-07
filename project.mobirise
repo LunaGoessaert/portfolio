@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.10",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x149-28.png",
     "noImageResize": "",
@@ -181,8 +181,111 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text1": "<h1><b>Textiel</b></h1><p><b style=\"font-size: 17px; line-height: 1.5;\">Tweedejaars bachelor studente textiel Sint-Lucas Gent. -</b></p><p><br></p><p><br></p>",
+          "text1": "<h1><b>Textiel</b></h1><p><b style=\"font-size: 17px; line-height: 1.5;\">Tweedejaars bachelor studente textiel aan Sint-Lucas Gent.&nbsp;</b></p><p><b>Zowel in de vrije kunsten als in toegepaste kunst is textiel een steeds vernieuwend medium. Met mijn werk wil ik mensen verbazen en intrigeren door zo innoverend mogelijk te werk te gaan.&nbsp;</b></p><p><b style=\"font-size: 17px; line-height: 1.5;\"><br></b></p><p><br></p><p><br></p>",
           "text2": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030295-2-2000x1084-61-2000x1084-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030295-2-2000x1084-61.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030296-2-2000x1082-63-2000x1082-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030296-2-2000x1082-63.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030297-2-2000x1085-74-2000x1085-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030297-2-2000x1085-74.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030298-2-2000x1091-97-2000x1091-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030298-2-2000x1091-97.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030299-2-2000x1089-68-2000x1089-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030299-2-2000x1089-68.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030300-2-2000x1085-60-2000x1085-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030300-2-2000x1085-60.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030301-2-2000x1073-46-2000x1073-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030301-2-2000x1073-46.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc030302-2-2000x1092-30-2000x1092-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pc030302-2-2000x1092-30.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-a",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }

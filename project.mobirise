@@ -179,10 +179,10 @@
           "_anchor": "content6-8",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<h1><b>Textiel</b></h1><p><b style=\"font-size: 17px; line-height: 1.5;\">Tweedejaars bachelor studente textiel aan Sint-Lucas Gent.&nbsp;</b></p><p><b>Zowel in de vrije kunsten als in toegepaste kunst is textiel een steeds vernieuwend medium. Met mijn werk wil ik mensen verbazen en intrigeren door zo innoverend mogelijk te werk te gaan.&nbsp;</b></p><p><b style=\"font-size: 17px; line-height: 1.5;\"><br></b></p><p><br></p><p><br></p>",
+          "text1": "<h1><b>Textiel</b></h1><p><span style=\"font-size: 17px; line-height: 1.5;\">Tweedejaars bachelor studente textiel aan Sint-Lucas Gent.&nbsp;</span></p><p>Zowel in de vrije kunsten als in toegepaste kunst is textiel een steeds vernieuwend medium. Met mijn werk wil ik mensen verbazen en intrigeren door zo innoverend mogelijk te werk te gaan.<b>&nbsp;</b></p><p><b style=\"font-size: 17px; line-height: 1.5;\"><br></b></p><p><br></p><p><br></p>",
           "text2": ""
         },
         {
@@ -193,7 +193,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -282,7 +282,7 @@
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": true,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery2-a",
           "articleLayout": false,

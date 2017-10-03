@@ -19,11 +19,12 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 61,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x149-28.png",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88589290-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -102,17 +103,17 @@
           "_name": "menu",
           "_anchor": "menu-z",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -128,7 +129,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Luna Goessaert</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"website.html#content6-r\">Biografie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Knopen.html\" aria-expanded=\"false\">Knopen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spoor.html\" aria-expanded=\"false\">Spoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"marbling.html\" aria-expanded=\"false\">Marbling</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sketches.html\" aria-expanded=\"false\">Schetsen<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -146,24 +147,24 @@
           },
           "_anchor": "header2-13",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/spr.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/spr.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -198,8 +199,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "5",
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -221,14 +229,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "5",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-18",
           "articleLayout": false,
@@ -308,17 +309,17 @@
           "_name": "menu",
           "_anchor": "menu-14",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -334,7 +335,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Luna Goessaert</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"website.html#content6-r\">Biografie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Knopen.html\" aria-expanded=\"false\">Knopen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spoor.html\" aria-expanded=\"false\">Spoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"marbling.html\" aria-expanded=\"false\">Marbling</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sketches.html\" aria-expanded=\"false\">Schetsen<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -344,23 +345,23 @@
           "_name": "header1",
           "_anchor": "header1-15",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/marblingfj.jpg",
-            "bgColor": "#a07e49",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -372,8 +373,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "2",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -415,14 +423,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-1h",
           "articleLayout": false,
@@ -435,8 +436,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -478,14 +486,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-1n",
           "articleLayout": false,
@@ -541,10 +542,10 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -565,7 +566,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -585,23 +586,23 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -617,7 +618,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Luna Goessaert</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"website.html#content6-r\">Biografie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Knopen.html\" aria-expanded=\"false\">Knopen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spoor.html\" aria-expanded=\"false\">Spoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"marbling.html\" aria-expanded=\"false\">Marbling</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sketches.html\" aria-expanded=\"false\">Schetsen<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -627,23 +628,23 @@
           "_name": "header1",
           "_anchor": "header1-5",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/kruispuntweb-2000x1091-12.jpg",
-            "bgColor": "#a07e49",
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsf2397.jpg",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -693,13 +694,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsf2398.jpg",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kruispuntweb-2000x1091.jpg",
-            "bgColor": "#fff",
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "Volgen&nbsp;",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/luna.goesrt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/lunagoess/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://nl.pinterest.com/lunagoessaert/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.tumblr.com/blog/lunagoes\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
@@ -778,17 +779,17 @@
           "_name": "menu",
           "_anchor": "menu-1c",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -804,7 +805,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Luna Goessaert</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"website.html#content6-r\">Biografie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Knopen.html\" aria-expanded=\"false\">Knopen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spoor.html\" aria-expanded=\"false\">Spoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"marbling.html\" aria-expanded=\"false\">Marbling</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sketches.html\" aria-expanded=\"false\">Schetsen<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -814,23 +815,23 @@
           "_name": "header1",
           "_anchor": "header1-1d",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/knots1-2000x1500-24.jpg",
-            "bgColor": "#a07e49",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -843,8 +844,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
             "paddingTop": "2",
             "paddingBottom": "4",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -886,14 +894,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "0",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-1o",
           "articleLayout": false,
@@ -944,10 +945,10 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -968,7 +969,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -988,23 +989,23 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
           "_anchor": "menu-1j",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1020,7 +1021,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LUNA GOESSAERT</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Luna Goessaert</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"website.html#content6-r\">Biografie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Knopen.html\" aria-expanded=\"false\">Knopen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Spoor.html\" aria-expanded=\"false\">Spoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"marbling.html\" aria-expanded=\"false\">Marbling</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sketches.html\" aria-expanded=\"false\">Schetsen<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1030,8 +1031,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "4",
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1101,7 +1109,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/zeefdrukmarbling4-800x1134.jpg",
                 "image": "@PROJECT_PATH@/assets/images/zeefdrukmarbling4.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1112,15 +1120,41 @@
                 "image": "@PROJECT_PATH@/assets/images/zeefdrukmarbling3.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsf2394-799x1254.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsf2394.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsf2395-1-800x1150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsf2395-1.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsf2396-1-800x1133.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsf2396-1.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-1m",
           "articleLayout": false,

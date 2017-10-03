@@ -53,10 +53,10 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -77,7 +77,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -97,7 +97,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -259,10 +259,10 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -283,7 +283,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -303,7 +303,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -709,7 +709,7 @@
     },
     "Knopen.html": {
       "settings": {
-        "title": "Textiel ontwerp | Luna Goessaert",
+        "title": "knots",
         "meta_descr": "Knots 2016-2017. ",
         "header_custom": "",
         "footer_custom": "",
@@ -729,10 +729,10 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -753,7 +753,7 @@
               "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -773,7 +773,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -929,7 +929,7 @@
     },
     "schetsen.html": {
       "settings": {
-        "title": "schetsen",
+        "title": "Sketches | Luna Goessaert",
         "meta_descr": "Website Maker Description"
       },
       "components": [

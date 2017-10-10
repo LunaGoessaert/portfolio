@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schetsen.html",
+    "currentPage": "index.html",
     "name": "Luna Goessaert",
     "theme": {
       "name": "mobirise3",
@@ -634,7 +634,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsf2397.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/marbling2.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -694,7 +694,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsf2398.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/marbling1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1126,8 +1126,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsf2394-799x1254.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsf2394.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naaktmodel2-800x1151.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naaktmodel2.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naaktmodel-1-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naaktmodel-1.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -1137,19 +1148,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsf2395-1-800x1150.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsf2395-1.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsf2396-1-800x1133.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsf2396-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naaktmodel3-800x1133.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naaktmodel3.jpg",
                 "caption": "Type caption here",
                 "active": true,
                 "alt": ""

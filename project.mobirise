@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schetsen.html",
     "name": "Luna Goessaert",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
     "uniqCompNum": 61,
     "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x149-28.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88589290-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
@@ -1134,13 +1134,13 @@
               },
               {
                 "tags": "Creative",
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/naaktmodel-1-800x531.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naaktmodel-1.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -1151,7 +1151,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/naaktmodel3-800x1133.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naaktmodel3.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]

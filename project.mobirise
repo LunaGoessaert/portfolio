@@ -23,10 +23,11 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 15,
+    "uniqCompNum": 26,
     "versionPublish": "4.3.4",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -45,7 +46,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -54,7 +55,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -530,7 +531,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Spoor",
-        "order": 6
+        "order": 3
       },
       "components": [
         {
@@ -539,7 +540,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -548,7 +549,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -562,13 +563,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -589,7 +590,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -624,6 +625,111 @@
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lunagoessaert.be\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Luna Goessaert</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-5"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "52",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13x18beeld-2000x1329.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/spr-850x567.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-k"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10x15kus-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-m"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10x15kijken-1400x906.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-n"
         }
       ]
     },
@@ -631,7 +737,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Traditie",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -640,7 +746,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -649,7 +755,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -663,13 +769,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -690,7 +796,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -732,7 +838,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Marbling",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -741,7 +847,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -750,7 +856,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -764,13 +870,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -791,7 +897,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -826,6 +932,57 @@
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lunagoessaert.be\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Luna Goessaert</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/marbling-1400x1049.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-o"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/marbling3-1400x1094.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-p"
         }
       ]
     },
@@ -833,7 +990,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Schaduw",
-        "order": 2
+        "order": 6
       },
       "components": [
         {
@@ -842,7 +999,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -851,7 +1008,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -865,13 +1022,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -892,7 +1049,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -934,7 +1091,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Knopen",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
@@ -943,7 +1100,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -952,7 +1109,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -966,13 +1123,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -993,7 +1150,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1028,6 +1185,179 @@
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lunagoessaert.be\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Luna Goessaert</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-9"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3img-7314-1400x944.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-i"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2img-7313-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2img-7313-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7302-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7302-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-j"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Netels&nbsp;",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://lunagoessaert.be\">Luna Goessaert</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://lunagoessaert.be\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Textiel werk</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Kruispunt 2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Knopen 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Spoor 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Marbling 2016 / 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Schaduw 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Traditie 2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-a\">Netels 2017 / 2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "link": "http://lunagoessaert.be",
+              "size": 0,
+              "newWindow": false,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lunagoessaert.be\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Luna Goessaert</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f"
         }
       ]
     }

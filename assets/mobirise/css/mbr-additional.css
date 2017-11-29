@@ -480,6 +480,10 @@ h6,
   text-align: left;
   font-size: 16px;
 }
+#social-buttons2-r .mbr-section-title,
+#social-buttons2-r .btn-social {
+  color: #232323;
+}
 
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
